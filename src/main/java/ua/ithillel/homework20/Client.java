@@ -8,7 +8,7 @@ import lombok.*;
 @NoArgsConstructor
 @ToString
 
-public class Client {
+public class  Client {
     private long id;
     private String clientName;
     private double balance;
